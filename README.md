@@ -1,6 +1,5 @@
 # soundsphere-3rd-party-deps
 
-cimgui: https://github.com/apicici/cimgui-love  
 luasec (openssl): https://github.com/brunoos/luasec https://curl.haxx.se/libcurl/c/  
 discordRPC: https://github.com/discord/discord-rpc  
 inspect: https://github.com/kikito/inspect.lua  
