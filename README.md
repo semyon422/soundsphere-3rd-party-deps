@@ -11,6 +11,7 @@ tinyyaml: https://github.com/peposso/lua-tinyyaml
 toml: https://github.com/jonstoler/lua-toml  
 tween: https://github.com/kikito/tween.lua  
 zlib: https://github.com/luapower/zlib https://zlib.net   
+MIDI: https://www.pjb.com.au/comp/lua/MIDI.html 
 
 luamidi: https://github.com/jdeeny/lovemidi  
 To compile lovemidi install libasound2-dev.  
