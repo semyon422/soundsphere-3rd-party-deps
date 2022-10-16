@@ -9,7 +9,7 @@ md5: https://github.com/kikito/md5.lua
 serpent: https://github.com/pkulchenko/serpent  
 tinyyaml: https://github.com/peposso/lua-tinyyaml  
 toml: https://github.com/jonstoler/lua-toml  
-tween: https://github.com/kikito/tween.lua  
+flux: https://github.com/rxi/flux  
 zlib: https://github.com/luapower/zlib https://zlib.net   
 MIDI: https://www.pjb.com.au/comp/lua/MIDI.html 
 
