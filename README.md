@@ -15,3 +15,5 @@ MIDI: https://www.pjb.com.au/comp/lua/MIDI.html
 
 luamidi: https://github.com/jdeeny/lovemidi  
 To compile lovemidi install libasound2-dev.  
+
+Win32OpenSSL: https://slproweb.com/products/Win32OpenSSL.html  
