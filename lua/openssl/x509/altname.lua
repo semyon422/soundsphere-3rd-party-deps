@@ -1,3 +1,4 @@
+---@diagnostic disable: no-unknown, codestyle-check
 local altname = require"_openssl.x509.altname"
 local auxlib = require"openssl.auxlib"
 

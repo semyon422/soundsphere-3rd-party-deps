@@ -1,3 +1,4 @@
+---@diagnostic disable: codestyle-check, no-unknown, assign-type-mismatch
 #!/usr/bin/lua
 --require 'DataDumper'   -- http://lua-users.org/wiki/DataDumper
 local M = {} -- public interface

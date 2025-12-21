@@ -1,3 +1,4 @@
+---@diagnostic disable: no-unknown, codestyle-check
 local ctx = require"_openssl.ssl.context"
 
 local pack = table.pack or function(...) return { n = select("#", ...); ... } end

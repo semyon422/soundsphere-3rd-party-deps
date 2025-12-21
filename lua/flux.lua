@@ -1,3 +1,4 @@
+---@diagnostic disable: codestyle-check, no-unknown, param-type-mismatch
 --
 -- flux
 --

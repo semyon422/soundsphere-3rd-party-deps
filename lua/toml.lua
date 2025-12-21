@@ -1,3 +1,4 @@
+---@diagnostic disable: codestyle-check, no-unknown, undefined-global, redundant-value, redundant-parameter, need-check-nil
 local TOML = {
 	-- denotes the current supported TOML version
 	version = 0.40,

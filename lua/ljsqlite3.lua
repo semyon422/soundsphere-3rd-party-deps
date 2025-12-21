@@ -1,3 +1,4 @@
+---@diagnostic disable: codestyle-check, no-unknown, param-type-mismatch, unbalanced-assignments, need-check-nil
 --------------------------------------------------------------------------------
 -- A library for interfacing with SQLite3 databases.
 --

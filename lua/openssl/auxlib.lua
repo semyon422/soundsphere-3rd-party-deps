@@ -1,3 +1,4 @@
+---@diagnostic disable: param-type-mismatch, no-unknown
 local auxlib = {}
 
 if _VERSION == "Lua 5.1" then

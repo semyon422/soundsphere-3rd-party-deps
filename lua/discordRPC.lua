@@ -1,3 +1,4 @@
+---@diagnostic disable: codestyle-check, no-unknown, inject-field
 local ffi = require "ffi"
 local discordRPClib = ffi.load("discord-rpc")
 
